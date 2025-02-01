@@ -17,6 +17,15 @@ This project is a custom travel application that integrates multiple APIs to pro
 - **APIs**: [List the APIs you used here]
 - **Testing**: Jest (or any other testing framework you used)
 
+---
+
+## Prerequisites
+Before running the project, ensure you have the following installed:
+- **Node.js v20.12.0** (or higher)
+- **npm** (usually comes with Node.js)
+
+---
+
 ## Installation
 To get started with the project, follow these steps:
 
